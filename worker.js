@@ -9,7 +9,7 @@ var SAVEVOTE_URL = 'http://******.net/onlinevote/saveVote';
 
 /**
  * Email domain
- * Make sure to redirect that domain to this server
+ * Make sure to redirect the domain to this server
  * @type {String}
  */
 var EMAIL_DOMAIN = 'yoursite.net';
